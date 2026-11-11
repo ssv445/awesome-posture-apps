@@ -18,7 +18,7 @@ Every fact here comes from the maker's own website or store listing (or saved co
 
 ## Webcam
 
-- [AlignKit](https://apps.apple.com/us/app/purepose-ai-posture-monitor/id6764853072?mt=12) - Uses your camera or AirPods, and alerts you with a sound, a screen blur or another style. Mac (macOS 13 or later). Subscription.
+- [AlignKit](https://www.alignkit.app/) - Uses your camera or AirPods, and alerts you with a sound, a screen blur or another style. Mac (macOS 13 or later). Subscription.
 - [ApexForm](https://apexform.me) - Uses your webcam, or AirPods with the camera off, and nudges you with a soft sound, a card that says what slipped, or both. Mac (macOS 14 or later), in public beta. Free plan; Pro is a subscription.
 - [BaroSit](https://barosit.com) - Uses your webcam and sends a desktop notification when one posture lasts too long, or a glow, pop-up or sound you pick. Mac (macOS 12 or later), Windows, web. Free in beta; a paid Pro plan is planned.
 - [BetterPose](https://betterpose.co/) - Uses your webcam and shows an on-screen notification and a live 0 to 100 score. Mac, Windows. Subscription.
