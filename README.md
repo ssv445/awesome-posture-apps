@@ -31,7 +31,7 @@ Every fact here comes from the maker's own website or store listing (or saved co
 - [Posture Reminder AI](https://posturereminderapp.com) - Uses your Mac's camera, an external camera or your iPhone, and sends a macOS notification. Mac (macOS 26 or later). Subscription.
 - [PostureKind](https://posturekind.com) - Uses your webcam, or timed reminders with the camera off, and shows an on-screen cue with an optional quiet sound. Web, Chrome, Mac; you sign in. Subscription, after a 7-day trial.
 - [Posturion](https://posturion.app) - Uses your built-in or external webcam, and plays one of 15 sounds or sends a desktop notification. Mac (macOS 14 or later). One free hour for new users, then a subscription.
-- [Poxture App](https://poxture.com/) - Checks your posture for eight habits through your Mac's camera. A soft glow at the top of the screen and a card show how to fix each one. Apple Silicon Mac (macOS 15 or later). Free 1 hour a day; pay once to keep it on all day.
+- [Poxture App](https://poxture.com/) - Checks eight habits through your Mac's camera or an external webcam, and nudges you with a soft glow at the top of the screen and a card on how to fix each one. Apple Silicon Mac (macOS 15 or later). Free 1 hour a day; pay once to keep it on all day.
 - [SitApp](https://sitapp.app) - Uses your webcam and on-device AI; when you slouch, a droid pokes its head into the corner of your screen. Mac (macOS 12 or later), Windows 10 or later, Linux. Free 1 hour a day; Pro is a subscription, Lifetime is paid once.
 - [SitWit](https://sitwit.app) - Uses your webcam and sends a notification, with a colour in the menu bar. Mac. Free; Premium is a subscription.
 - [Slouch Sniper](https://slouchsniper.com) - Uses your webcam and on-device AI, and dims your screen until you sit up. Windows, Apple Silicon Mac. Paid once.
@@ -71,8 +71,10 @@ These work from a clock, not from your posture.
 
 ## More
 
-- [Side-by-side comparisons](https://poxture.com/alternatives) of Poxture App with 29 of these apps.
-- [My picks of posture apps for Mac](https://poxture.com/best-posture-apps-for-mac), with the reasons.
+- [Posture apps for Mac, ranked](https://poxture.com/best-posture-apps-for-mac) - My ranked list of eight apps and devices for a Mac user, with Poxture App first: how each one works, where it runs and what it costs.
+- [Posture app alternatives, compared](https://poxture.com/alternatives) - One page per app, comparing Poxture App with 29 of the apps and wearables above, from each maker's own pages.
+- [Desk height calculator](https://poxture.com/desk-height-calculator) - Free. Enter your height to get your desk, chair, keyboard and monitor heights, sitting or standing, with the source for each.
+- [Posture corrector app or wearable sensor?](https://poxture.com/posture-corrector-app) - How Poxture App compares with a wearable sensor you clip near your collar or upper back: it checks through your Mac's camera, so there's nothing to wear.
 
 ## Contributing
 
