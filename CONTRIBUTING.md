@@ -18,7 +18,7 @@ Thanks for helping keep this list right. Open a pull request to add an app or fi
 
 ## Rules
 
-1. Facts come only from the maker's own website or App Store listing. Reviews, forums and other lists don't count.
+1. Facts come only from the maker's own website or store listing. Reviews, forums and other lists don't count.
 2. No ranking and no "best". Plain facts only.
 3. No health or medical claims.
 4. An app that is no longer made stays on the list, marked "No longer made".
