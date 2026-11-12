@@ -2,7 +2,7 @@
 
 > Apps that nudge you to sit better while you work at a computer, grouped by how each one notices your posture.
 
-Every fact here comes from the maker's own website or store listing (or saved copies of it), checked between 21 October and 8 November 2026. Prices and features change, so check the maker's page before you buy.
+Every fact here comes from the maker's own website or store listing (or saved copies of it), checked between 21 October and 12 November 2026. Prices and features change, so check the maker's page before you buy.
 
 **Disclosure:** I'm Shyam Verma, and I make Poxture App, one of the apps on this list. Every app gets the same kind of line here, with no ranking.
 
@@ -42,6 +42,7 @@ Every fact here comes from the maker's own website or store listing (or saved co
 
 ## AirPods or headphones
 
+- [AirPosture](https://www.getairposture.com) - Uses the motion sensors in AirPods 3, AirPods 4, AirPods Pro or AirPods Max, and speaks a short line in your AirPods, with a small panel that folds out of the notch on a Mac. iPhone (iOS 17.6 or later), Mac (macOS 14 or later). Free 2 hours a day; Premium is a subscription or paid once.
 - [Posture Pal](https://apps.apple.com/us/app/posture-pal-improve-alert/id1590316152) - Uses the motion sensors in AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro, and sends an alert that can also show on your Apple Watch. iPhone (iOS 17 or later), Mac (macOS 14 or later). Free; Pro and subscriptions are in-app purchases.
 - [SitTall](https://apps.apple.com/us/app/sittall-fix-your-posture/id6761648859) - Uses the motion sensors in your AirPods or Beats Fit Pro, and sends a Mac notification when your head drifts forward, tilts to one side or slowly sinks. Apple Silicon Mac (macOS 14 or later). Paid once.
 
@@ -72,7 +73,7 @@ These work from a clock, not from your posture.
 ## More
 
 - [Posture apps for Mac, ranked](https://poxture.com/best-posture-apps-for-mac) - My ranked list of eight apps and devices for a Mac user, with Poxture App first: how each one works, where it runs and what it costs.
-- [Posture app alternatives, compared](https://poxture.com/alternatives) - One page per app, comparing Poxture App with 29 of the apps and wearables above, from each maker's own pages.
+- [Posture app alternatives, compared](https://poxture.com/alternatives) - One page per app, comparing Poxture App with 30 of the apps and wearables above, from each maker's own pages.
 - [Desk height calculator](https://poxture.com/desk-height-calculator) - Free. Enter your height to get your desk, chair, keyboard and monitor heights, sitting or standing, with the source for each.
 - [Posture corrector app or wearable sensor?](https://poxture.com/posture-corrector-app) - How Poxture App compares with a wearable sensor you clip near your collar or upper back: it checks through your Mac's camera, so there's nothing to wear.
 
